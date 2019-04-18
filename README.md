@@ -2,7 +2,7 @@
 
 ### Give me the PNGs!
 
-See the [Releases]() and download a zip file with the latest emoji.
+See the [Releases](https://github.com/skyzyx/emoji-extractor/releases/latest) and download a zip file with the latest emoji.
 
 ### I'm a developer!
 
